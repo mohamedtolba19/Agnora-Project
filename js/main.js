@@ -22,6 +22,11 @@ $(document).ready(function(){
                   nav:true,
                   loop:false
               },
+              900:{
+                  items:5,
+                  nav:true,
+                  loop:false
+              },
            
           },
          
