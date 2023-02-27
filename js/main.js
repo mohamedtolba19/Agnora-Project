@@ -6,7 +6,6 @@ $(document).ready(function(){
         {
 
           items: 5,
-         
           responsiveClass:true,
           responsive:{
               0:{
@@ -17,12 +16,17 @@ $(document).ready(function(){
                   items:2,
                   nav:false
               },
-              700:{
+              800:{
                   items:3,
                   nav:true,
                   loop:false
               },
-              900:{
+              1000:{
+                  items:4,
+                  nav:true,
+                  loop:false
+              },
+              1200:{
                   items:5,
                   nav:true,
                   loop:false

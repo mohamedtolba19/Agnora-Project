@@ -516,3 +516,8 @@ footer a:hover
     display: none;
 }
 
+
+.carousel-indicators button img
+{
+    width: 100% !important;
+}
