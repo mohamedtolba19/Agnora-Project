@@ -14,19 +14,15 @@ $(document).ready(function(){
                   nav:true
               },
               500:{
-                  items:3,
+                  items:2,
                   nav:false
               },
               700:{
-                  items:2,
-                  nav:true,
-                  loop:false
-              },
-              1000:{
                   items:3,
                   nav:true,
                   loop:false
-              }
+              },
+           
           },
          
        
